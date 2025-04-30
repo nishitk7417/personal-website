@@ -1,0 +1,14 @@
+{
+    "about": {
+        "name": "Nishit kumar",
+        "bio": "A passionate web developer with experience in full-stack development...",
+        "profileImage":""
+    },
+    "skill":["React.js", "Node.js", "MongoDB", "Tailwind CSS"],
+    "hobbies": ["Gaming", "Reading", "Traveling"],
+    "passions": ["Open Source", "UI/UX"],
+    "academics":[{"degree":"B.tech in ECE", "institution":"Noida institute of engineering and tecnology","year":"2023"}],
+    "certifications":[{
+        "name": "Full Stack MERN", "issuer":"PW Skills","year":"2024"
+    }]
+}
