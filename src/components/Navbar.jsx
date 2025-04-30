@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <div>
         <div className='flex justify-between px-3 py-3 bg-gray-700'>
-            <h2>Personal website</h2>
+            <h2 className='text-2xl'>Personal Website</h2>
             <div>
                 <ul className='flex gap-5'>
                     <Link to="/about">About me</Link>
