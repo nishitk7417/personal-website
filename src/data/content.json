@@ -2,6 +2,7 @@
     "about": {
         "name": "Nishit kumar",
         "bio": "A passionate web developer with experience in full-stack development...",
+        "github":"https://github.com/nishitk7417",
         "profileImage":""
     },
     "skills":["React.js", "Node.js", "MongoDB", "Tailwind CSS"],
